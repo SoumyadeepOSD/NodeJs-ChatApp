@@ -2,7 +2,7 @@
 It's a basic chat application made by using Node JS with catchy UI. It runs on local machine in port '3000'.
 
 
-[ INSTALL PACKAGES AND DEPENDIES ]
+[ INSTALL PACKAGES AND DEPENDENCIES ]
 - At first, NodeJs must be installed in your local machine.
 - npn init -y //it will install the 'package.json'.
 - npn install express //it will install the 'package-lock.json'.
